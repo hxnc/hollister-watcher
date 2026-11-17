@@ -1,0 +1,18 @@
+{
+  "check_interval_minutes": 5,
+  "products": [
+    {
+      "name": "Example hoodie",
+      "url": "https://www.hollisterco.com/shop/eu/p/PASTE-PRODUCT-LINK-HERE",
+      "sizes": [
+        "M",
+        "L"
+      ]
+    }
+  ],
+  "recipients": [],
+  "notifier": "whatsapp_callmebot",
+  "whatsapp_callmebot": {
+    "api_keys": {}
+  }
+}
